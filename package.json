@@ -1,0 +1,27 @@
+{
+  "name": "lamport-clock",
+  "version": "0.0.0",
+  "description": "A simple implementation of Lamport logcial clocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/weisjohn/lamport-clock.git"
+  },
+  "keywords": [
+    "lamport",
+    "logical",
+    "logical",
+    "clock",
+    "vector",
+    "clock"
+  ],
+  "author": "John Weis <weis.john@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weisjohn/lamport-clock/issues"
+  },
+  "homepage": "https://github.com/weisjohn/lamport-clock"
+}
